@@ -28,4 +28,12 @@ public class Board {
 		this.columns = columns;
 	}
 	//As peças (pieces) não terão getters e setters porque tem métodos para retornar uma peça, não faz sentido retornar a matriz inteira;
+	
+	public Piece piece(int row, int column) {
+		return pieces[row][column];
+	}
+	
+	public Piece piece(Position position) {
+		return pieces[position.getRow()][position.getColumn()];
+	}
 }
