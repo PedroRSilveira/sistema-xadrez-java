@@ -1,7 +1,5 @@
 package chess.pieces;
 
-import java.awt.event.ActionListener;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessPiece;
