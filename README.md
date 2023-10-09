@@ -1,8 +1,8 @@
 # sistema-xadrez-java
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/PedroRSilveira/sistema-xadrez-java/blob/main/LICENSE)
 # Sobre o projeto
 
-sistema-xadrez-java é um jogo de xadrez que roda no terminal do computador. Seguindo as regras do jogo original para quantidade de peças (que são representadas na tela pela sua inicial), sua disposição no tabuleiro e seus movimentos.
+sistema-xadrez-java é um jogo de xadrez que roda no terminal do computador. Seguindo as regras do jogo original para quantidade de peças (que são representadas na tela pela sua inicial em inglês), sua disposição no tabuleiro e seus movimentos.
 
 # Demonstração do software
 
